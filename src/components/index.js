@@ -1,6 +1,6 @@
 import TaskHeader from "./TaskHeader";
-import CardTask from "./CardTask";
+import CardRemainder from "./CardReminder";
 import CardInfoTask from "./CardInfoTask";
-import CardDesign from "./CardDesign";
+import CardTask from "./CardTask";
 
-export { TaskHeader, CardTask, CardInfoTask, CardDesign };
+export { TaskHeader, CardRemainder, CardInfoTask, CardTask };

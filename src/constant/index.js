@@ -1,4 +1,4 @@
 import assets from './assets'
-import { TASKS, INFOTASKS } from './dummy'
+import { REMINDER, INFOTASKS, TASKS } from './dummy'
 
-export { assets, TASKS, INFOTASKS }
+export { assets, REMINDER, INFOTASKS, TASKS }
